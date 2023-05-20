@@ -1,0 +1,6 @@
+notion-nativefier
+-------------------------------------
+
+This is my modified version of notion-app-nativefier.
+
+This version adds a tray icon (with transparency) and makes the app persistent, similar to the whatsapp and messenger nativefier builds on the AUR.

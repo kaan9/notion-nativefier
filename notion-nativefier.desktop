@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Notion
+Comment=Notion desktop built with nativefier (electron)
+Exec=notion-nativefier
+Icon=notion-nativefier
+Encoding=UTF-8
+StartupWMClass=notion-nativefier-d40211
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Network;Office;ProjectManagement;Utility;TextTools;
+
